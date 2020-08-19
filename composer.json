@@ -1,14 +1,6 @@
 {
-    "name": "hellocheney/silverfox",
-    "description": "my test project",
-    "type": "project",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "cheney",
-            "email": "upan2009@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "wubuwei/php-apple-signin": "^2.0",
+        "hellocheney/mylibrary": "dev-master"
+    }
 }
