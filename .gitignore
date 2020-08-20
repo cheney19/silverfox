@@ -8,5 +8,5 @@
 *.iml
 out
 gen
-
+composer.lock
 /vendor/
