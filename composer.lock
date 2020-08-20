@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ca7b997315a8028866d572726b57d959",
+    "content-hash": "5b89f25d9f2339ab916c5dff388ce784",
     "packages": [
         {
             "name": "hellocheney/mylibrary",
@@ -88,7 +88,7 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "stability-flags": {
         "hellocheney/mylibrary": 20
     },
